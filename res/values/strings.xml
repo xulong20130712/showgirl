@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MenuActivity!</string>
+    <string name="app_name">ShowGirl</string>
+    <string name="message">若果您对此源代码有什么意见和建议，
+    	或者有比较好的图片素材，可以发到我的邮箱
+    	（apkbus_android@foxmail.com），非常感谢！  ^_^</string>
+    <drawable name="blue">#ff0000ff</drawable>
+</resources>
